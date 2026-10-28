@@ -44,9 +44,9 @@ Use the trained model to predict  for a new input value .
 
 ## PROGRAM
 
-### Name:chandru k
+### Name:THAMIZHARASU R
 
-### Register Number:212224220017
+### Register Number:212225233002
 
 ```python
 class NeuralNet(nn.Module):
@@ -82,8 +82,8 @@ X_test_tensor = torch.tensor(X_test, dtype=torch.float32)
 y_test_tensor = torch.tensor(y_test, dtype=torch.float32).view(-1, 1)
      
 
-# Name:
-# Register Number:
+# Name:THAMIZHARASU R
+# Register Number:212225233002
 class NeuralNet(nn.Module):
   def __init__(self):
         super().__init__()
@@ -99,8 +99,8 @@ class NeuralNet(nn.Module):
 # Write your code here
      
 
-# Name:
-# Register Number:
+# Name:THAMIZHARASU R
+# Register Number:212225233002
 def train_model(ai_brain, X_train, y_train, criterion, optimizer, epochs=2000):
     # Write your code here
 
